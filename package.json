@@ -1,0 +1,43 @@
+{
+  "name": "promised-aws",
+  "version": "0.0.1",
+  "description": "High Level Promised AWS Wrapper",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewngs/promised-aws.git"
+  },
+  "keywords": [
+    "promise",
+    "promised",
+    "aws",
+    "wrapper",
+    "ec2",
+    "s3"
+  ],
+  "author": {
+    "name": "Peter Kovacs",
+    "email": "kiwep@elasticwings.com"
+  },
+  "engines": {
+    "iojs": ">=2.5.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ewngs/promised-aws/issues"
+  },
+  "homepage": "https://github.com/ewngs/promised-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1.50",
+    "mime": "^1.3.4"
+  },
+  "devDependencies": {
+    "co": "^4.6.0"
+  }
+}
