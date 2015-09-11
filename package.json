@@ -1,6 +1,6 @@
 {
   "name": "promised-aws",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "High Level Promised AWS Wrapper",
   "main": "index.js",
   "directories": {
